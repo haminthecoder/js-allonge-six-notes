@@ -38,3 +38,9 @@ All the string elements are value, strings with operators(+ operator in this cas
 
 **!==** => not
 
+### Value Types
+
+**String, Numbers, booleans** are example of JS **value** for **primitive**, used interchangeably.
+
+### Reference Types
+
