@@ -1,4 +1,4 @@
-# js-allonge-six-notes
+# JavaScript Allongé, the "Six" Edition Notes
 Notes taken from reading JavaScript Allongé, the "Six" Edition
 
 # Resource
