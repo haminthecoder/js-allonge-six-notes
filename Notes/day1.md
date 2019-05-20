@@ -44,3 +44,27 @@ All the string elements are value, strings with operators(+ operator in this cas
 
 ### Reference Types
 
+For **Arrays**, it generates its own **unique** array thus
+
+        [2-1, 2, 2+1] === [1,2,3]
+        [1,2,3] === [1, 2, 3]
+        [1, 2, 3] === [1, 2, 3]
+        
+All following examples return **False**
+
+### Floating
+
+Numbers are represented internally as floating point.
+
+Floating number => Binary(in Assembly)
+
+Professional programmars almost never use Floating number for monetary amounts.
+
+It has some deviation which is sensitive in monetary terms.
+
+Say $11.11 => this will be represented as two numbers dollars and cents.\
+
+
+## Basic Functions
+
+- In JS functions are values.
